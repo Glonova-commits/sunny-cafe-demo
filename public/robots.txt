@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sunny-cafe-prod.onrender.com/sitemap.xml
